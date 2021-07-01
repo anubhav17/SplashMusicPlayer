@@ -1,0 +1,128 @@
+{
+  "project_info": {
+    "project_number": "757393027653",
+    "firebase_url": "https://status-downloader-aece4.firebaseio.com",
+    "project_id": "status-downloader-aece4",
+    "storage_bucket": "status-downloader-aece4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757393027653:android:25d3aeacbb152d75d2692c",
+        "android_client_info": {
+          "package_name": "com.beauty.beutifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757393027653-lno4atnhn20q6m224i2ke2ga4tpof81b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6a4OkAoTbK3qZHAxbFT4g1RBtlsZmkvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757393027653-lno4atnhn20q6m224i2ke2ga4tpof81b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757393027653:android:3bd4578c66df86d6d2692c",
+        "android_client_info": {
+          "package_name": "com.teamff.mrconnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757393027653-lno4atnhn20q6m224i2ke2ga4tpof81b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6a4OkAoTbK3qZHAxbFT4g1RBtlsZmkvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757393027653-lno4atnhn20q6m224i2ke2ga4tpof81b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757393027653:android:5b9b6a4e345a0b12d2692c",
+        "android_client_info": {
+          "package_name": "com.teamff.music.playmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757393027653-lno4atnhn20q6m224i2ke2ga4tpof81b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6a4OkAoTbK3qZHAxbFT4g1RBtlsZmkvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757393027653-lno4atnhn20q6m224i2ke2ga4tpof81b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757393027653:android:a7b98e2d966c4de0",
+        "android_client_info": {
+          "package_name": "com.wapp.statusdownloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757393027653-lno4atnhn20q6m224i2ke2ga4tpof81b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6a4OkAoTbK3qZHAxbFT4g1RBtlsZmkvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757393027653-lno4atnhn20q6m224i2ke2ga4tpof81b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1941856436272675~4067051649"
+    }
+  ],
+  "configuration_version": "1"
+}
