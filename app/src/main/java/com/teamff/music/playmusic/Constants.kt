@@ -26,9 +26,8 @@ object Constants {
     const val PRO_VERSION_PRODUCT_ID = "teamff_sync_music_purchase"
     const val RATE_ON_GOOGLE_PLAY =
       "https://play.google.com/store/apps/details?id=com.teamff.music.playmusic"
-//      "http://apps.samsung.com/appquery/appDetail.as?appId=com.teamff.music.playmusic"
-    const val TRANSLATE = "https://github.com/h4h13/RetroMusicPlayer"
-    const val GITHUB_PROJECT = "https://github.com/h4h13/RetroMusicPlayer"
+    const val TRANSLATE = "https://github.com/anubhav17/SplashMusicPlayer"
+    const val GITHUB_PROJECT = "https://github.com/anubhav17/SplashMusicPlayer"
     const val TELEGRAM_CHANGE_LOG = "https://t.me/retromusiclog"
     const val USER_PROFILE = "profile.jpg"
     const val USER_BANNER = "banner.jpg"
