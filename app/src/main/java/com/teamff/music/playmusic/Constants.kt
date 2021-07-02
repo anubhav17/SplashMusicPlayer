@@ -146,8 +146,8 @@ const val FILTER_SONG = "filter_song"
 const val EXPAND_NOW_PLAYING_PANEL = "expand_now_playing_panel"
 
 
-const val admob_bannerads = "ca-app-pub-1941856436272675/6825250262"
-const val admob_interstital = "ca-app-pub-1941856436272675/1189780208"
+const val admob_bannerads = ""
+const val admob_interstital = ""
 
 fun loadBannerAds(context: Context, linearLayout: LinearLayout) {
     if (!App.isProVersion()) {
